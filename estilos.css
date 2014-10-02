@@ -1,0 +1,193 @@
+/* Estilos principales*/
+/*Estilos principales*/
+/*Reset */
+*{
+margin: 0;
+padding: 0;
+}
+
+/* body */
+
+body {
+	background: black;
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+figure img{
+	height: auto;
+	width: 100%;
+	vertical-align: middle;
+}
+
+/* Header */
+
+header{
+	color:white;
+	padding: 20px;
+	
+	text-align: center;
+	background-image: url("imagenesWEB/fondoTexto.png");
+
+
+}
+
+header figure {
+	width: 1%;
+	display: inline-block;
+}
+
+header h1{
+	font-size: 3em;
+	display: inline-block;
+}
+
+header h2{
+	font-size: 2em;
+}
+
+/*Articulo*/
+article {
+	display: inline-block;
+	color: white;
+	
+
+}
+
+section{
+	margin: 0 auto;
+
+}
+
+/*div*/
+
+div figure{
+	width: 50%;
+	display: inline-block;
+}
+
+#headerTitle {
+	display :;
+}
+
+/* Nav */
+
+nav{
+	background: red;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+}
+
+#meGusta{
+width: 10%;
+margin: 0 auto;
+display: inline-block;
+
+
+}
+
+#perfil{
+width: 100%;
+margin: 0 auto;
+margin: 20px;
+
+margin: 0 auto;
+
+}
+
+#comentario{
+	font-family: Helvetica;
+
+font-size: 60%;
+background-image: url("imagenesWEB/fondoTexto.png");
+width: 100%;
+height: 50%;
+padding: 10px;
+
+}
+
+.uno{
+
+margin: 0 auto;
+width: 30%;
+display:inline-block;
+padding: 20px;
+vertical-align: top;
+
+
+}
+
+
+
+#nombre{
+font-family: Helvetica;
+ color: white;
+ font-size: 70%;
+ width: 10%;
+
+
+}
+
+
+#like{
+font-family: Helvetica;
+ color: white;
+ font-size: 60%;
+ width: 15%;
+}
+
+
+.unoTexto{
+
+margin: 0 auto;
+width: 40%;
+display:inline-block;
+vertical-align: top;
+padding: 10px;
+
+}
+
+.unidad{
+width: 100%;	
+margin: 0 auto;
+background-image: url("imagenesWEB/fondo1.png");
+
+}
+
+.unidadDos{
+	width: 100%;	
+margin: 0 auto;
+background-image: url("imagenesWEB/fondo2.png");
+
+}
+.unidadTres{
+	width: 100%;	
+margin: 0 auto;
+background-image: url("imagenesWEB/fondo3.png");
+
+}
+.unidadCuatro{
+	width: 100%;	
+margin: 0 auto;
+background-image: url("imagenesWEB/fondo4.png");
+
+}
+.unidadCinco{
+	width: 100%;	
+margin: 0 auto;
+background-image: url("imagenesWEB/fondo5.png");
+
+}
+
+
+footer{
+	background-image: url("imagenesWEB/fondoTexto.png");
+	color:white;
+	padding: 20px;
+	
+	text-align: center;
+	 font-size: 50%;
+}
